@@ -31,19 +31,21 @@ author: 常鑫同学`
 ```
 
 不过不写`<head>`好像也可以，浏览器都会自动创建一个`<head>`。
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <body> 
 </body>
 </html>
-```
-![firefox](../images/firefox.png)
 
-![chrome](../images/chrome.png)
+```
+![firefox](https://github.com/Gavinchang1/gavinchang1.github.io/blob/master/images/firefox.PNG 'firefox')
+
+![chrome](https://github.com/Gavinchang1/gavinchang1.github.io/blob/master/images/chrome.PNG 'chrome')
 
 <a href="http://www.stevesouders.com/blog/2010/05/12/autohead-my-first-browserscope-user-test/">当然，不是所有浏览器都可以。</a>
 
 哦，对了，它以前有个全局属性`<profile>`，规定文档url的一系列规则，H5中删了。其他剩下的东西就看MDN这张表吧。
-![MDN](../images/MDN.png)
+![MDN](https://github.com/Gavinchang1/gavinchang1.github.io/blob/master/images/MDN.PNG)
 
 >参考文献：<a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/head">MDN文档
