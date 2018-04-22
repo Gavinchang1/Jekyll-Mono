@@ -37,13 +37,13 @@ author: 常鑫同学`
 </body>
 </html>
 ```
-![firefox]()
+![firefox](../images/firefox.png)
 
-![chrome]()
+![chrome](../images/chrome.png)
 
 <a href="http://www.stevesouders.com/blog/2010/05/12/autohead-my-first-browserscope-user-test/">当然，不是所有浏览器都可以。</a>
 
 哦，对了，它以前有个全局属性`<profile>`，规定文档url的一系列规则，H5中删了。其他剩下的东西就看MDN这张表吧。
-![MDN]()
+![MDN](../images/MDN.png)
 
 >参考文献：<a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/head">MDN文档
