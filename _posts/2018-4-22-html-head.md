@@ -40,10 +40,10 @@ author: 常鑫同学`
 
 ```
 
-![](https://github.com/Gavinchang1/gavinchang1.github.io/blob/master/images/firefox.PNG)
+![](./images/firefox.PNG)
 
 
-![](https://github.com/Gavinchang1/gavinchang1.github.io/blob/master/images/chrome.PNG)
+![](./images/chrome.PNG)
 
 
 <a href="http://www.stevesouders.com/blog/2010/05/12/autohead-my-first-browserscope-user-test/">当然，不是所有浏览器都可以。</a>
