@@ -41,7 +41,7 @@ author: 常鑫同学`
 ```
 ![firefox](https://github.com/Gavinchang1/gavinchang1.github.io/blob/master/images/firefox.PNG 'firefox')
 
-![chrome](https://github.com/Gavinchang1/gavinchang1.github.io/blob/master/images/chrome.PNG 'chrome')
+![chrome](https://github.com/Gavinchang1/gavinchang1.github.io/blob/master/images/chrome.PNG  'chrome')
 
 <a href="http://www.stevesouders.com/blog/2010/05/12/autohead-my-first-browserscope-user-test/">当然，不是所有浏览器都可以。</a>
 
